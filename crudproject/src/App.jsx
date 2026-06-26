@@ -10,7 +10,6 @@ import { Route, Routes } from 'react-router-dom'
 import EditForm from './components/EditForm'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
